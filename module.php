@@ -1,6 +1,6 @@
 <?php
 require_once __DIR__ . '/../libs/TasmotaService.php';
-class IPS_Tasmota extends TasmotaService
+class PIMQTT extends TasmotaService
 {
     public function Create()
     {
